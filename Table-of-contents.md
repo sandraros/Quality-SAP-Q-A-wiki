@@ -17,5 +17,6 @@ Table of contents
   * Fiori
   * ...
 * Non-SAP topics
+  * Markdown syntax to write this wiki can be found at https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   * HTML
   * ...
