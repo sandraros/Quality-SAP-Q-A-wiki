@@ -4,6 +4,8 @@ The counter of rows is automatically updated if some rows are filtered or if sor
 
 It's possible to hide the counter column by clicking the button Aggregations > Count, and get the counter back by clicking it again.
 
+Before running this program, the program [`SAPBC_DATA_GENERATOR`]() must be run to fill the table `SFLIGHT`.
+
 ```
 DATA go_alv TYPE REF TO cl_gui_alv_grid.
 TYPES: BEGIN OF ty_sflight.
