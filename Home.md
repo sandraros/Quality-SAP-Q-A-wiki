@@ -23,3 +23,6 @@ Search the wiki pages by:
 # Participate, propose changes
 To propose modifications in this wiki, subscribe and log into github, fork the repository https://github.com/sandraros/Quality-SAP-Q-A.wiki.git, create a branch, change the pages you want and create a pull request.
 I will either directly accept or request changes before accepting your requests.
+
+# Other SAP-related information web sites
+https://github.com/DennstedtB/SAP-Development-Info-Hub
