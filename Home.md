@@ -4,7 +4,7 @@ This is a collection of well-asked questions and argumented answers taken from t
 
 Search the wiki pages by:
 * either clicking the "Pages" hyperlink on the right, there is a search field for page titles
-* or browsing the wiki via the [[Table of contents.md]] (there's a link at the right of all pages)
+* or browsing the wiki via the [[Table of contents]] (there's a link at the right of all pages)
 
 You're welcome to enrich this wiki. Please follow the rules below.
 
@@ -24,9 +24,9 @@ Non-editor posts are appended to a queue and have to be accepted before the edit
     * The preferred approach is to link articles from StackExchange network (for instance [StackOverflow](https://stackoverflow.com/tour)) because they can be edited, need to be 
     * Describe what distinguishes two links in the same page
   * Add link to the external article
-    * Edit a more general wiki page to add the link to the external page. If there is no more general wiki page, eventually create it or update the [[Table of contents.md]] if it's a very high-level topic.
+    * Edit a more general wiki page to add the link to the external page. If there is no more general wiki page, eventually create it or update the [[Table of contents]] if it's a very high-level topic.
   * New wiki page
-    * Edit other pages so that the new wiki page can be accessed from the [[Table of contents.md]], directly or indirectly.
+    * Edit other pages so that the new wiki page can be accessed from the [[Table of contents]], directly or indirectly.
     * Its title should be precise so that the visitors search the fewest pages possible via the "Pages" link
 * What external page can you link
   * Clear and concise
